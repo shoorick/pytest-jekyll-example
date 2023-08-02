@@ -31,7 +31,11 @@ to Jekyll sites.
 
 ## Installation
 
-_Coming soon_
+Make virtual environment and install modules
+
+```bash
+make venv
+```
 
 ## Usage
 
